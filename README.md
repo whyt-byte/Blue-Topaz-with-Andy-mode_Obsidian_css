@@ -10,7 +10,7 @@ For background related to this theme and reasons for naming it, please find [Blu
 
 # Installation
 1. 下载css文件。
-2. 在Obsidian种开启自定义主题。
+2. 在Obsidian中开启自定义主题。
 3. 把obsidian.css放到vault文件夹中（如果已经存在obsidian.css，覆盖原文件）。
 ---
 1. Download css file.

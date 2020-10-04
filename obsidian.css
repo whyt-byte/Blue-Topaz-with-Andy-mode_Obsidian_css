@@ -253,14 +253,16 @@ display: none;
 
 .titlebar-text {
   flex-grow: 1;
-  margin-right: 120px;
+  margin-right: 20px;
   font-size: 15px;
   text-align: center;
   letter-spacing: 0.05em;
   line-height: 20px;
   opacity: 1;
   color: var(--text-accent);
+  position: relative;
 }
+
 /*添加其他文字*/
 /*
 .titlebar-text:after {

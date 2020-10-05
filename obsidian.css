@@ -751,7 +751,6 @@ strong{
   font-weight: 400;
   text-align: justify; 
   -webkit-text-stroke: 0.0px;
-  -webkit-font-smoothing: none;
   color:var(--text-normal);
   overflow-y: scroll;
 }

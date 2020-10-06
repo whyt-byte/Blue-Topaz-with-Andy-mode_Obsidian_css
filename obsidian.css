@@ -437,7 +437,7 @@ li {
 .search-result-collapse-indicator::after {
   position: absolute;
   content : "↓";
-  right: 5px;
+  right: 4px;
   top: -1px;
   font-size: 12px;
   font-weight: bolder;
@@ -450,7 +450,7 @@ li {
 }
 
 .search-result.is-collapsed .search-result-collapse-indicator {
-  transform: translateX(-6px) translateY(-4px) rotate(-90deg);
+  transform: translateX(-11px) translateY(1px) rotate(-90deg);
 }
 
 /*search icon 2*/
@@ -484,7 +484,7 @@ li {
 }
 
 .side-dock-collapsible-section-header.is-collapsed .side-dock-collapsible-section-header-indicator {
-  transform: translateX(1px) translateY(4px) rotate(-90deg);
+  transform: translateX(-5px) translateY(8.5px) rotate(-90deg);
 }
 
 /*code box icon*/

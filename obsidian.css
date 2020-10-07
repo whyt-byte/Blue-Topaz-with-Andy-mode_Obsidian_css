@@ -328,6 +328,11 @@ body {
   color: var(--btblj);
 }
 
+/*reduce search result margin*/
+.search-result-file-match{
+  padding: 0px 0px;
+}
+
 .search-result-file-matched-text {
 
   color: var(--text-muted); /*标题被链接 提示黑字减淡 */

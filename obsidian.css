@@ -276,7 +276,7 @@ display: none;
 }
 
 .workspace-leaf.mod-active .view-header-icon {
-  color: var(--ztys);
+  color: var(--interactive-accent);
   cursor: grab;
   position: relative;
 }
@@ -865,7 +865,7 @@ strong{
 
 .popover mark {
   background-color: var(--text-highlight-bg);     
-  color:var(--text-normal)     
+  color:var(--text-normal);     
 }
 
 .workspace-leaf.mod-active .view-header {

@@ -1439,7 +1439,7 @@ span.cm-formatting-task { display: inline !important; font-family: monospace; }
   border-color: transparent;
   border-image: initial;
   border-radius: 0px;
-  padding: 0px 0px -5px 0px !important;
+  padding: 1px 5px 0px 20px;
   color: var(--text-muted);
   display: flex;
   align-items: baseline;
